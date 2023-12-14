@@ -4,7 +4,7 @@
 <a href="https://boryana-yordanova.com/"><img align="center" src="https://raw.githubusercontent.com/boryanayordanova/boryanayordanova/main/portfolio-boryana-yordanova.png" alt="Boryana Yourdanova (Боряна Йорданова)'s Portfolio"/></a>
 
 
-<a href="https://app.daily.dev/boryanayourdanova"><img src="https://github.com/boryanayordanova/boryanayordanova/blob/main/devcard.svg" width="400" alt="Boryana Yourdanova (Боряна Йорданова)'s Dev Card"/></a>  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boryanayordanova&langs_count=15&theme=dark&card_width=400)
+<a href="https://app.daily.dev/boryanayourdanova"><img src="https://github.com/boryanayordanova/boryanayordanova/blob/main/devcard.svg" width="400" alt="Boryana Yourdanova (Боряна Йорданова)'s Dev Card"/></a>  <div>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boryanayordanova&langs_count=15&theme=dark&card_width=400)</div>
 
 
 
