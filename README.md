@@ -1,6 +1,6 @@
 ### Hi there, my name is Boryana Yordanova 👋
 
-<a style="background:lightblue" href="https://www.linkedin.com/in/https://www.linkedin.com/in/boryana-yordanova/>LinkedIn</a>
+<a style="background: pink" href="https://www.linkedin.com/in/https://www.linkedin.com/in/boryana-yordanova/">LinkedIn</a>
 
 
 <a href="https://app.daily.dev/boryanayourdanova"><img src="https://github.com/boryanayordanova/boryanayordanova/blob/main/devcard.svg" width="400" alt="Boryana Yourdanova (Боряна Йорданова)'s Dev Card"/></a>
