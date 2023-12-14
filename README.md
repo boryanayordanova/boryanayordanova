@@ -1,12 +1,11 @@
 ### Hi there, my name is Boryana Yordanova 👋
 
-<a style="background: pink" href="https://www.linkedin.com/in/https://www.linkedin.com/in/boryana-yordanova/">LinkedIn</a>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boryanayordanova&layout=compact) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boryanayordanova&layout=compact)
 
 <a href="https://app.daily.dev/boryanayourdanova"><img src="https://github.com/boryanayordanova/boryanayordanova/blob/main/devcard.svg" width="400" alt="Boryana Yourdanova (Боряна Йорданова)'s Dev Card"/></a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boryanayordanova&layout=compact)
+
 
 <!--
 **boryanayordanova/boryanayordanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
