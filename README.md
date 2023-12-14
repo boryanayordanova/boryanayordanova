@@ -1,6 +1,7 @@
-### Hi there, my name is Boryana Yordanova 👋
 
-![Jewelry-Ideas-image](https://github.com/boryanayordanova/boryanayordanova/blob/main/portfolio-boryana-yordanova.png?raw=true)
+
+
+<a href="https://boryana-yordanova.com/"><img align="center" src="https://raw.githubusercontent.com/boryanayordanova/boryanayordanova/main/portfolio-boryana-yordanova.png" alt="Boryana Yourdanova (Боряна Йорданова)'s Portfolio"/></a>
 
 
 <a href="https://app.daily.dev/boryanayourdanova"><img src="https://github.com/boryanayordanova/boryanayordanova/blob/main/devcard.svg" width="400" alt="Boryana Yourdanova (Боряна Йорданова)'s Dev Card"/></a>  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boryanayordanova&langs_count=14&theme=dark)
@@ -22,5 +23,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boryanayordanova&layout=compact) 
+
+![portfolio-boryana-yordanova](https://github.com/boryanayordanova/boryanayordanova/blob/main/portfolio-boryana-yordanova.png?raw=true)
+
 -->
 
