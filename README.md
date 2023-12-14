@@ -1,6 +1,6 @@
 ### Hi therem my name is Boryana Yordanova 👋
 
-<a href="https://app.daily.dev/boryanayourdanova"><img src="https://github.com/boryanayordanova/boryanayordanova/blob/master/devcard.svg" width="400" alt="Boryana Yourdanova (Боряна Йорданова)'s Dev Card"/></a>
+<a href="https://app.daily.dev/boryanayourdanova"><img src="https://github.com/boryanayordanova/boryanayordanova/blob/main/devcard.svg" width="400" alt="Boryana Yourdanova (Боряна Йорданова)'s Dev Card"/></a>
 <!--
 **boryanayordanova/boryanayordanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
